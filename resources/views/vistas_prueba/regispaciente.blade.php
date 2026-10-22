@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="Registro de Paciente SIPAC" />
-  <title>Registrar Paciente - SIPAC</title>
+  <title>Registrar Paciente</title>
   
   <link href= "{{ asset('css/bootstrap.min.css') }}" rel="stylesheet" />
   <link href= "{{ asset('css/dashboard.css') }}"rel="stylesheet" />
